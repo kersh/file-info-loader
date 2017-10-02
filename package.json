@@ -1,0 +1,27 @@
+{
+  "name": "file-info-loader",
+  "version": "1.0.0",
+  "description": "File info loader module for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kersh/file-info-loader.git"
+  },
+  "keywords": [
+    "file",
+    "info",
+    "raw",
+    "path",
+    "loader",
+    "webpack"
+  ],
+  "author": "Vladimir Shafikov <vladimir@shafikov.com> (http://shafikov.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kersh/file-info-loader/issues"
+  },
+  "homepage": "https://github.com/kersh/file-info-loader#readme"
+}
