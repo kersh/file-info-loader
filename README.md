@@ -1,5 +1,5 @@
 [![npm version](https://badge.fury.io/js/file-info-loader.svg)](https://badge.fury.io/js/file-info-loader)
-[![deps][https://david-dm.org/kersh/file-info-loader.svg]][https://david-dm.org/kersh/file-info-loader]
+[![deps](https://david-dm.org/kersh/file-info-loader.svg)](https://david-dm.org/kersh/file-info-loader)
 
 <div align="center">
   <h1>File Info Loader</h1>
