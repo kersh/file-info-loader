@@ -23,10 +23,10 @@ Use the loader either via your webpack config, CLI or inline.
 import txt from 'file-info-loader!./file.txt';
 import js from 'file-info-loader!./file.js';
 
-console.log('txt:', txt);
+console.log(txt);
 // {path: 'FULL-FILE-PATH', content: 'FILE RAW CONTENT'}
 
-console.log('js:', js);
+console.log(js);
 // {path: 'FULL-FILE-PATH', content: 'FILE RAW CONTENT'}
 ```
 
